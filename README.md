@@ -1,4 +1,4 @@
-## Mechanics track
+## Mechanics-track
 ### Task 1 in the Mechanics track \
 #### Designing the robot's leg joints using 6 motors\
 ##### The idea resulting from a search on Google:
