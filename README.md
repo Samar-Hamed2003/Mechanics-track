@@ -9,3 +9,7 @@
 
 ##### The 3D drawing on the Tinkercad program :
 <img src="https://github.com/Samar-Hamed2003/Mechanics-track/assets/173670288/ecdfccdf-e660-4ac1-9a03-ace52ec631ce.jpg" width="50%" height="50%">
+
+##### Tinkercad drawing link:
+https://www.tinkercad.com/things/8ysiSocyqCZ-robot-legs-soso/edit
+
